@@ -1,0 +1,106 @@
+Customer ID,Customer Name,Phone Number,Email,Order ID,Product Name,Order Date,Delivery Date,Delivery Status,Payment Status,Customer Feedback,Issue Reported,Resolution Status
+C1001,Patrick Brown,(301) 324-2528,patrick.brown@example.com,ORD5001,Fitness Tracker,23-04-2025,26-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1002,Mr. William Hernandez,(528) 541-1967,mr..william@example.com,ORD5002,Wireless Headphones,20-04-2025,25-04-2025,Processing,Paid,N/A,None,N/A
+C1003,Kathy Drake,(400) 344-7331,kathy.drake@example.com,ORD5003,Laptop Backpack,27-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1004,Jose Allen,(308) 869-8198,jose.allen@example.com,ORD5004,Bluetooth Speaker,24-04-2025,27-04-2025,Delivered,Paid,27-Apr,Defective product,Apology issued
+C1005,Larry Eaton,(347) 995-5101,larry.eaton@example.com,ORD5005,Laptop Backpack,21-04-2025,26-04-2025,Delivered,Paid,26-Apr,Late delivery,Replacement sent
+C1006,Catherine Payne,(243) 854-2040,catherine.payne@example.com,ORD5006,Laptop Backpack,27-04-2025,30-04-2025,In Transit,Pending,N/A,None,N/A
+C1007,Derek Meyers,(243) 223-8910,derek.meyers@example.com,ORD5007,Wireless Headphones,26-04-2025,29-04-2025,In Transit,Paid,N/A,None,N/A
+C1008,Austin Cook,(468) 732-5083,austin.cook@example.com,ORD5008,Bluetooth Speaker,19-04-2025,21-04-2025,Delivered,Paid,21-Apr,None,N/A
+C1009,Sara Miller,(876) 944-3337,sara.miller@example.com,ORD5009,Bluetooth Speaker,25-04-2025,28-04-2025,In Transit,Paid,28-Apr,Wrong item,Replacement sent
+C1010,Cody Garcia,(660) 831-5265,cody.garcia@example.com,ORD5010,Fitness Tracker,27-04-2025,27-04-2025,Delivered,Paid,27-Apr,Late delivery,Apology issued
+C1011,Sarah Wilson,(224) 286-4558,sarah.wilson@example.com,ORD5011,Smart Watch,27-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1012,Jeffrey Johnston,(732) 784-6015,jeffrey.johnston@example.com,ORD5012,Bluetooth Speaker,24-04-2025,26-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1013,Laura Martinez DVM,(844) 154-7621,laura.martinez@example.com,ORD5013,Wireless Headphones,25-04-2025,28-04-2025,In Transit,Pending,28-Apr,Wrong item,Replacement sent
+C1014,Jerry Hall,(338) 670-4869,jerry.hall@example.com,ORD5014,Wireless Headphones,20-04-2025,21-04-2025,Delivered,Paid,21-Apr,None,N/A
+C1015,John Ryan,(389) 486-3296,john.ryan@example.com,ORD5015,Wireless Headphones,24-04-2025,27-04-2025,Delivered,Paid,27-Apr,Late delivery,Apology issued
+C1016,Kathleen Garrett,(651) 613-8970,kathleen.garrett@example.com,ORD5016,Wireless Headphones,24-04-2025,26-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1017,Margaret Phillips,(981) 487-9115,margaret.phillips@example.com,ORD5017,Fitness Tracker,19-04-2025,23-04-2025,Delivered,Paid,N/A,None,N/A
+C1018,Richard Cook,(701) 402-1444,richard.cook@example.com,ORD5018,Bluetooth Speaker,25-04-2025,29-04-2025,Shipped,Paid,N/A,None,N/A
+C1019,Jennifer Collins,(719) 468-9743,jennifer.collins@example.com,ORD5019,Laptop Backpack,26-04-2025,30-04-2025,Shipped,Paid,N/A,None,N/A
+C1020,Kathleen Wilson,(176) 994-4143,kathleen.wilson@example.com,ORD5020,Wireless Headphones,18-04-2025,21-04-2025,Delivered,Paid,22-Apr,None,N/A
+C1021,Brian Rose,(437) 581-5851,brian.rose@example.com,ORD5021,Fitness Tracker,24-04-2025,25-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1022,Karen Jacobson,(488) 845-4799,karen.jacobson@example.com,ORD5022,Fitness Tracker,26-04-2025,29-04-2025,In Transit,Paid,N/A,None,N/A
+C1023,Christina Meyer,(548) 345-8059,christina.meyer@example.com,ORD5023,Laptop Backpack,18-04-2025,20-04-2025,Delivered,Paid,20-Apr,Late delivery,Replacement sent
+C1024,John Richardson,(801) 388-6498,john.richardson@example.com,ORD5024,Laptop Backpack,21-04-2025,24-04-2025,Delivered,Paid,24-Apr,None,N/A
+C1025,Frank Bauer,(985) 974-1169,frank.bauer@example.com,ORD5025,Wireless Headphones,17-04-2025,18-04-2025,Delivered,Paid,18-Apr,None,N/A
+C1026,Sherry Moore,(903) 192-8258,sherry.moore@example.com,ORD5026,Laptop Backpack,26-04-2025,29-04-2025,In Transit,Paid,N/A,None,N/A
+C1027,Thomas Michael,(242) 710-4437,thomas.michael@example.com,ORD5027,Wireless Headphones,22-04-2025,24-04-2025,Delivered,Paid,26-Apr,None,N/A
+C1028,Danny Evans,(844) 909-4841,danny.evans@example.com,ORD5028,Bluetooth Speaker,25-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1029,Charles Cox,(783) 136-6001,charles.cox@example.com,ORD5029,Fitness Tracker,17-04-2025,20-04-2025,Delivered,Paid,21-Apr,Defective product,Refund 10%
+C1030,Gregory Rice,(969) 835-1269,gregory.rice@example.com,ORD5030,Smart Watch,27-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1031,Olivia Johnson,(208) 843-4484,olivia.johnson@example.com,ORD5031,Laptop Backpack,27-04-2025,27-04-2025,Delivered,Paid,27-Apr,Late delivery,Replacement sent
+C1032,Eduardo Barnes,(850) 239-3373,eduardo.barnes@example.com,ORD5032,Laptop Backpack,26-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1033,Karen Lynch,(976) 806-9734,karen.lynch@example.com,ORD5033,Wireless Headphones,25-04-2025,28-04-2025,In Transit,Paid,28-Apr,Late delivery,Apology issued
+C1034,Patrick Jones,(894) 363-7373,patrick.jones@example.com,ORD5034,Bluetooth Speaker,23-04-2025,26-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1035,Willie May,(799) 604-3398,willie.may@example.com,ORD5035,Wireless Headphones,20-04-2025,26-04-2025,Processing,Paid,N/A,None,N/A
+C1036,Tracy Ramirez,(307) 870-1209,tracy.ramirez@example.com,ORD5036,Smart Watch,25-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1037,Brandon Gregory,(354) 893-8978,brandon.gregory@example.com,ORD5037,Smart Watch,19-04-2025,24-04-2025,In Transit,Paid,N/A,None,N/A
+C1038,Paula Pierce,(982) 318-9915,paula.pierce@example.com,ORD5038,Bluetooth Speaker,21-04-2025,22-04-2025,Delivered,Paid,24-Apr,Wrong item,Apology issued
+C1039,Veronica Smith,(855) 560-4119,veronica.smith@example.com,ORD5039,Bluetooth Speaker,19-04-2025,23-04-2025,Delivered,Paid,23-Apr,Wrong item,Refund 10%
+C1040,Dana Morris,(781) 116-6496,dana.morris@example.com,ORD5040,Laptop Backpack,23-04-2025,26-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1041,Krystal Hall,(105) 213-8530,krystal.hall@example.com,ORD5041,Laptop Backpack,21-04-2025,24-04-2025,Delivered,Paid,24-Apr,Late delivery,Refund 10%
+C1042,Derek Smith,(902) 886-2895,derek.smith@example.com,ORD5042,Wireless Headphones,25-04-2025,26-04-2025,Delivered,Paid,27-Apr,Defective product,Replacement sent
+C1043,Carmen Morales,(708) 774-1515,carmen.morales@example.com,ORD5043,Smart Watch,23-04-2025,25-04-2025,Delivered,Paid,N/A,None,N/A
+C1044,Marcia Cantu,(490) 723-6496,marcia.cantu@example.com,ORD5044,Smart Watch,18-04-2025,20-04-2025,Delivered,Paid,21-Apr,None,N/A
+C1045,Victor White,(994) 657-7979,victor.white@example.com,ORD5045,Laptop Backpack,20-04-2025,21-04-2025,Delivered,Pending,21-Apr,None,N/A
+C1046,Christopher Davis,(921) 753-9673,christopher.davis@example.com,ORD5046,Bluetooth Speaker,25-04-2025,29-04-2025,In Transit,Paid,N/A,None,N/A
+C1047,Terry Thornton IV,(352) 536-5451,terry.thornton@example.com,ORD5047,Wireless Headphones,18-04-2025,21-04-2025,Delivered,Paid,22-Apr,Defective product,Refund 10%
+C1048,Caroline Nelson,(822) 561-2564,caroline.nelson@example.com,ORD5048,Laptop Backpack,26-04-2025,28-04-2025,In Transit,Failed,N/A,None,N/A
+C1049,Anthony Lester,(637) 372-7420,anthony.lester@example.com,ORD5049,Bluetooth Speaker,25-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1050,Ashley Thomas,(330) 212-7814,ashley.thomas@example.com,ORD5050,Laptop Backpack,26-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1051,Lisa Johnson,(457) 799-9269,lisa.johnson@example.com,ORD5051,Bluetooth Speaker,21-04-2025,25-04-2025,Processing,Paid,N/A,None,N/A
+C1052,Beverly Bailey,(706) 511-3076,beverly.bailey@example.com,ORD5052,Wireless Headphones,25-04-2025,27-04-2025,Delivered,Paid,27-Apr,Defective product,Refund 10%
+C1053,Nancy Olson,(233) 268-8828,nancy.olson@example.com,ORD5053,Laptop Backpack,20-04-2025,23-04-2025,Delivered,Paid,25-Apr,None,N/A
+C1054,Carolyn Hansen,(300) 234-1294,carolyn.hansen@example.com,ORD5054,Bluetooth Speaker,23-04-2025,26-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1055,Randy Dougherty,(350) 310-9423,randy.dougherty@example.com,ORD5055,Laptop Backpack,24-04-2025,28-04-2025,In Transit,Paid,N/A,None,N/A
+C1056,Shannon Perry,(816) 818-8017,shannon.perry@example.com,ORD5056,Wireless Headphones,26-04-2025,29-04-2025,In Transit,Paid,N/A,None,N/A
+C1057,Jesse Hughes,(255) 942-9538,jesse.hughes@example.com,ORD5057,Laptop Backpack,17-04-2025,19-04-2025,Delivered,Paid,19-Apr,None,N/A
+C1058,Phyllis Adams,(381) 119-3986,phyllis.adams@example.com,ORD5058,Wireless Headphones,20-04-2025,22-04-2025,Delivered,Paid,22-Apr,None,N/A
+C1059,Ashley Miles,(542) 897-9039,ashley.miles@example.com,ORD5059,Smart Watch,18-04-2025,19-04-2025,Delivered,Paid,21-Apr,None,N/A
+C1060,Michael Li,(618) 773-9562,michael.li@example.com,ORD5060,Smart Watch,24-04-2025,27-04-2025,Processing,Paid,27-Apr,Late delivery,Refund 10%
+C1061,Sarah Woods DVM,(128) 867-7023,sarah.woods@example.com,ORD5061,Fitness Tracker,20-04-2025,21-04-2025,Delivered,Paid,22-Apr,Late delivery,Replacement sent
+C1062,Wendy Sandoval,(403) 989-7592,wendy.sandoval@example.com,ORD5062,Wireless Headphones,18-04-2025,19-04-2025,Delivered,Paid,19-Apr,None,N/A
+C1063,Mark Walsh,(406) 202-5049,mark.walsh@example.com,ORD5063,Bluetooth Speaker,22-04-2025,24-04-2025,Delivered,Paid,26-Apr,None,N/A
+C1064,Jason Larson,(771) 743-8714,jason.larson@example.com,ORD5064,Fitness Tracker,24-04-2025,29-04-2025,Shipped,Paid,N/A,None,N/A
+C1065,James Delgado,(476) 826-3561,james.delgado@example.com,ORD5065,Bluetooth Speaker,26-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1066,Kara Gonzales,(623) 180-6609,kara.gonzales@example.com,ORD5066,Fitness Tracker,20-04-2025,26-04-2025,Delivered,Paid,26-Apr,Wrong item,Apology issued
+C1067,Stephen Schaefer,(163) 191-4823,stephen.schaefer@example.com,ORD5067,Fitness Tracker,25-04-2025,29-04-2025,In Transit,Paid,N/A,None,N/A
+C1068,Sandra Dixon,(890) 246-8004,sandra.dixon@example.com,ORD5068,Wireless Headphones,18-04-2025,20-04-2025,Delivered,Paid,22-Apr,None,N/A
+C1069,Rachel Bell,(626) 599-7942,rachel.bell@example.com,ORD5069,Fitness Tracker,26-04-2025,27-04-2025,In Transit,Pending,N/A,Defective product,Refund 10%
+C1070,Wendy Lee,(854) 431-8911,wendy.lee@example.com,ORD5070,Bluetooth Speaker,18-04-2025,22-04-2025,Delivered,Paid,24-Apr,Late delivery,Apology issued
+C1071,Elizabeth Evans,(816) 806-9341,elizabeth.evans@example.com,ORD5071,Smart Watch,26-04-2025,27-04-2025,Processing,Pending,N/A,None,N/A
+C1072,Megan Marshall,(119) 993-4120,megan.marshall@example.com,ORD5072,Smart Watch,20-04-2025,22-04-2025,Delivered,Paid,24-Apr,Wrong item,Replacement sent
+C1073,Anita Lawrence,(576) 641-2139,anita.lawrence@example.com,ORD5073,Laptop Backpack,26-04-2025,30-04-2025,In Transit,Paid,N/A,None,N/A
+C1074,Crystal Mcgrath,(246) 207-5553,crystal.mcgrath@example.com,ORD5074,Wireless Headphones,23-04-2025,24-04-2025,Delivered,Paid,26-Apr,None,N/A
+C1075,Cristian Lindsey,(687) 158-9113,cristian.lindsey@example.com,ORD5075,Wireless Headphones,25-04-2025,29-04-2025,In Transit,Paid,N/A,None,N/A
+C1076,Jaclyn Conley,(588) 110-7309,jaclyn.conley@example.com,ORD5076,Smart Watch,24-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1077,Aaron Boyd,(156) 279-8385,aaron.boyd@example.com,ORD5077,Smart Watch,25-04-2025,27-05-2025,Delivered,Paid,27-Apr,Wrong item,Refund 10%
+C1078,Katie Harrell,(335) 836-3682,katie.harrell@example.com,ORD5078,Bluetooth Speaker,18-04-2025,19-04-2025,Delivered,Paid,21-Apr,None,N/A
+C1079,Lisa Cook,(185) 880-7829,lisa.cook@example.com,ORD5079,Laptop Backpack,21-04-2025,22-04-2025,Delivered,Paid,22-Apr,None,N/A
+C1080,Michael Miranda,(886) 525-6126,michael.miranda@example.com,ORD5080,Smart Watch,21-04-2025,25-04-2025,Delivered,Paid,25-Apr,Late delivery,Apology issued
+C1081,Maria Campbell,(540) 771-3044,maria.campbell@example.com,ORD5081,Laptop Backpack,26-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1082,Monique Bennett,(604) 670-1757,monique.bennett@example.com,ORD5082,Smart Watch,25-04-2025,27-04-2025,Delivered,Paid,27-Apr,Late delivery,Replacement sent
+C1083,Emily Young,(143) 825-3026,emily.young@example.com,ORD5083,Smart Watch,25-04-2025,27-04-2025,Delivered,Paid,27-Apr,Defective product,Refund 10%
+C1084,Ashley Garcia,(762) 723-8403,ashley.garcia@example.com,ORD5084,Wireless Headphones,27-04-2025,30-04-2025,Shipped,Paid,N/A,None,N/A
+C1085,Kelly Hernandez,(230) 525-3547,kelly.hernandez@example.com,ORD5085,Fitness Tracker,25-04-2025,26-04-2025,Delivered,Paid,27-Apr,Wrong item,Replacement sent
+C1086,Lawrence Barnes,(703) 775-3955,lawrence.barnes@example.com,ORD5086,Bluetooth Speaker,25-04-2025,29-04-2025,Shipped,Paid,N/A,None,N/A
+C1087,Kathleen Davis,(763) 846-6847,kathleen.davis@example.com,ORD5087,Fitness Tracker,25-04-2025,26-04-2025,Delivered,Paid,26-Apr,None,N/A
+C1088,Angela Reyes,(600) 863-5243,angela.reyes@example.com,ORD5088,Fitness Tracker,24-04-2025,25-04-2025,Delivered,Paid,25-Apr,None,N/A
+C1089,Stephanie Wright,(625) 945-5532,stephanie.wright@example.com,ORD5089,Laptop Backpack,17-04-2025,20-04-2025,Delivered,Paid,21-Apr,Defective product,Replacement sent
+C1090,Wayne Whitaker,(814) 930-6785,wayne.whitaker@example.com,ORD5090,Laptop Backpack,24-04-2025,26-04-2025,Delivered,Paid,27-Apr,Wrong item,Replacement sent
+C1091,Kenneth Price,(126) 848-3919,kenneth.price@example.com,ORD5091,Smart Watch,24-04-2025,27-04-2025,Delivered,Paid,27-Apr,None,N/A
+C1092,Michael Mann,(612) 455-1515,michael.mann@example.com,ORD5092,Smart Watch,27-04-2025,27-04-2025,Delivered,Paid,27-Apr,Defective product,Replacement sent
+C1093,Donald Thomas,(941) 873-8353,donald.thomas@example.com,ORD5093,Bluetooth Speaker,19-04-2025,21-04-2025,Delivered,Paid,22-Apr,None,N/A
+C1094,Timothy Donaldson,(814) 931-7507,timothy.donaldson@example.com,ORD5094,Wireless Headphones,27-04-2025,30-04-2025,In Transit,Pending,N/A,None,N/A
+C1095,Melissa Pacheco,(233) 807-6008,melissa.pacheco@example.com,ORD5095,Wireless Headphones,24-04-2025,25-04-2025,Delivered,Paid,27-Apr,Late delivery,Apology issued
+C1096,Nicholas Tyler,(553) 466-8525,nicholas.tyler@example.com,ORD5096,Smart Watch,19-04-2025,20-04-2025,Delivered,Paid,22-Apr,Defective product,Replacement sent
+C1097,Caitlyn Shah,(989) 112-5937,caitlyn.shah@example.com,ORD5097,Fitness Tracker,19-04-2025,21-04-2025,Delivered,Paid,22-Apr,None,N/A
+C1098,Katie Wilson,(360) 792-3912,katie.wilson@example.com,ORD5098,Smart Watch,17-04-2025,18-04-2025,Delivered,Paid,18-Apr,Late delivery,Refund 10%
+C1099,Melissa Jenkins,(214) 691-7214,melissa.jenkins@example.com,ORD5099,Laptop Backpack,27-04-2025,29-04-2025,In Transit,Paid,N/A,Wrong item,Replacement sent
+C1100,Sherry Estrada,(469) 666-8587,sherry.estrada@example.com,ORD5100,Smart Watch,21-04-2025,23-04-2025,Delivered,Paid,23-Apr,None,N/A
+C1101,Poornima NV,9994651689,poornima@scmsbengaluru.siu.edu.in,ORD5101,Pothi's Saree,28-04-2025,29-04-2025,In Transit,COD,N/A,None,N/A
+C1102,Siddharth,7560015066,siddharth@scmsbengaluru.siu.edu.in,ORD5102,Laptop Backpack,27-04-2025,29-Apr,Shipped,Paid,N/A,None,N/A
+C1103,Sarthak,8091541906,sarthak@scmsbengaluru.siu.edu.in,ORD5103,Smart Watch,28-04-2025,30-04-2025,In-Transit,Paid,N/A,None,N/A
+C1104,Suchi,7894532157,suchi@scmsbengaluru.siu.edu.in,ORD5104,Wireless Headphones,27-04-2025,29-04-2025,Shipped,COD,N/A,None,N/A
+C1105,Upasana,8052141447,upasana@scmsbengaluru.siu.edu.in,ORD5105,Bluetooth Speaker,28-04-2025,30-04-2025,In-Transit,Paid,N/A,None,N/A
